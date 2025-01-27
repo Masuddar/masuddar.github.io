@@ -11,7 +11,7 @@ lang: en
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
 
-favicon: /assets/favicons/favicon.ico
+favicon: /assets/favicons/favicon-16x16.png
 
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
@@ -101,11 +101,11 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: ./assets/favicons/Masuddar.png
+avatar: assets/img/favicons/Masuddar.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: assets/favicons/Masuddar.png
+social_preview_image: assets/img/favicons/Masuddar.png
 
 # boolean type, the global switch for TOC in posts.
 toc: true
