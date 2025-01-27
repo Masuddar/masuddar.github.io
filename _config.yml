@@ -22,11 +22,15 @@ title: Masuddar.in # the main title
 tagline: Data science & AI/ML # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  "Dive into the world of data science, AI, and machine learning with insightful articles, comprehensive tutorials, and innovative projects. Join our community of tech enthusiasts and stay updated with the latest trends and advancements in technology."
+
+keywords: "data science, data analysis, technology, artificial intelligence, AI, machine learning, AI/ML, deep learning, tutorials, projects, tech trends, innovations"
+
+
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://masuddar.github.io"
+url: "https://masuddar.in"
 
 github:
   username: "Masuddar" # Your GitHub username updated
