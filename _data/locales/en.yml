@@ -14,7 +14,8 @@ tabs:
   categories: Blogs
   tags: Tags
   archives: Timeline
-  about: About
+  about: About Me <br> Privacy policy
+  
   
 
 # the text displayed in the search bar & search results

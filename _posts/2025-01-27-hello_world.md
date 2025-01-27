@@ -1,8 +1,13 @@
 ---
-title: "hello world"
-date: "2025-01-27"
+
+layout: post
+title: "The Wonders of the Night Sky"
+date: "2025-01-27 11:05:06 +0530"
 categories: [Hello World]
-tags: [Hello worldl]
+tags: [hello world]
+featured: true # Add this line to feature the post
+
+
 ---
 # The Wonders of the Night Sky
 
