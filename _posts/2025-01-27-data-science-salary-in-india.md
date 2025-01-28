@@ -135,22 +135,19 @@ Additionally, senior data scientists are tasked with strategizing, setting the d
 
 <img src="https://images.pexels.com/photos/1181354/pexels-photo-1181354.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Data Science" width="600" height="200">
 
+The **industry** in which you work is one of the most significant factors influencing your salary. Some sectors are more willing to pay a premium for data science expertise, particularly in fields where **data-driven decision-making** directly impacts profitability. Let’s explore these industries:
 
-#### 11.1 **Industry of Employment**: Your Choice Makes a Difference
-
-The industry in which you work is one of the most significant factors influencing your salary. Some sectors are more willing to pay a premium for data science expertise, particularly in fields where **data-driven decision-making** directly impacts profitability. Let’s explore these industries:
-
-##### 11.1.1 E-commerce and Retail
+#### 11.1 E-commerce and Retail
 <img src="https://images.pexels.com/photos/953864/pexels-photo-953864.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Data Science" width="600" height="200">
 
 Companies like **Amazon**, **Flipkart**, and **Myntra** are known for paying some of the highest salaries to data scientists. These companies deal with massive amounts of customer data and leverage data science to drive personalized shopping experiences, recommendations, and inventory management. As an **e-commerce data scientist**, your skills will be used to optimize search algorithms, predict customer behavior, and even help in pricing strategies.
 
-##### 11.1.2 Finance and Banking
+#### 11.2 Finance and Banking
 <img src="https://images.pexels.com/photos/1602726/pexels-photo-1602726.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Data Science" width="600" height="200">
 
 In the finance sector, **banks** and **financial institutions** leverage data science to create predictive models, detect fraud, and improve trading algorithms. Data scientists in this industry use advanced **machine learning** and **statistical modeling** techniques to assess risk and forecast market trends. The high impact of data science in this sector translates into higher salaries, with some institutions offering salaries in the ₹15,00,000+ range.
 
-##### 11.1.3 Healthcare and Pharmaceuticals
+#### 11.3 Healthcare and Pharmaceuticals
 <img src="https://images.pexels.com/photos/208512/pexels-photo-208512.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Data Science" width="600" height="200">
 
 Data science is transforming healthcare by enabling better patient outcomes through predictive analysis, drug discovery, and personalized medicine. Professionals in healthcare and pharmaceuticals apply data science techniques to large datasets, ranging from medical imaging to genomic data. The complexity of this work justifies higher pay for data scientists who possess knowledge of **healthcare analytics** and **bioinformatics**.
