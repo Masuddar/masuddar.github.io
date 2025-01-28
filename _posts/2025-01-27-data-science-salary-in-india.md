@@ -78,7 +78,7 @@ Humor Break: Bengaluru might have traffic jams, but hey, at least the salaries a
 | Flipkart          | ₹12,00,000 – ₹20,00,000    |
 | TCS & Infosys     | ₹8,00,000 – ₹12,00,000     |
 
-These tech giants know the value of [data](https://www.ibm.com/topics/data) and they’re ready to invest in the best. Why not aim for the stars?
+These tech giants know the value of data and they’re ready to invest in the best. Why not aim for the stars?
 
 ### How Can You Boost Your Data Science Salary? 🚀
 Want to fast-track your earning potential? Here’s how:
