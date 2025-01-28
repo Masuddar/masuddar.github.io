@@ -134,11 +134,9 @@ comments:
     category_id: DIC_kwDONwiL1M4CmZWQ
     mapping: pathname
     strict: "0"
-    input_position: "bottom"
+    input_position: bottom
+    lang: en
     reactions_enabled: "1"
-    emit_metadata: "0"
-    theme: "preferred_color_scheme"
-    lang: "en"
 
 
 
