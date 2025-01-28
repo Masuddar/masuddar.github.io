@@ -5,7 +5,7 @@ title: "Data Science Salary in India 2025? "
 date: "2025-01-27 11:05:06 +0530"
 categories: [Data science, data science salary in india]
 tags: [data science]
-description: Data Science Salary in Indi. Entry-Level (0–2 years) ₹4,00,000 – ₹6,00,000; Mid-Level (3–5 years) .....Learn more salaries on Experience. 🚀 
+description: Data Science Salary in Indi. Entry-Level (0–2 years) ₹4,00,000 – ₹6,00,000; Mid-Level (3–5 years) ...Learn more salary Hike on Experiences. 🚀 
 featured: true # Add this line to feature the post
 ---
 
@@ -16,7 +16,7 @@ featured: true # Add this line to feature the post
 In today’s world, [data scientists](https://en.wikipedia.org/wiki/Data_science) decode information. While loving data is key, salary matters too. This article reveals India’s data scientist pay and opportunities. The numbers might just amaze you! "Data Science Salary in India"💰
 
 ### How Much Can You Earn as a Data Scientist in India? 💸
-“Your future holds a six-figure salary.” Well, that could be your reality as a [data scientist](https://www.coursera.org/articles/what-is-data-science). Here’s is what you can expect:
+“Your future holds a six-figure salary.” Well, that could be your reality as a **data scientist**. Here’s is what you can expect:
 
 | Experience Level         | Annual Salary (₹)            |
 |--------------------------|------------------------------|
@@ -156,6 +156,6 @@ For more resources, check out these useful websites:
 
 - **[Kaggle](https://www.kaggle.com/)** – A platform for data science competitions and datasets.
 - **[Coursera](https://www.coursera.org/)** – Offers courses and certifications in **data science**, **machine learning**, and more.
-- **[edX](https://www.edx.org/)** – Provides online courses in data science from top universities.
+
 
 By leveraging these tools and educational resources, you can stay at the forefront of the **data science revolution** and build a successful career in this dynamic and ever-growing field.
