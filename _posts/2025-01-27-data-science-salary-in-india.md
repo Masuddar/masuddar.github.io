@@ -187,13 +187,13 @@ By combining these tools with continuous learning, you can thrive in the **data-
 ### _**Data Science Salaries in India: FAQ's**_
 
 1. **What is the average salary for a Data Scientist in India?**
-   - As of January 2025, the average annual salary for a Data Scientist in India is approximately ₹1,300,000. :contentReference[oaicite:0]{index=0}
+   - As of January 2025, the average annual salary for a Data Scientist in India is approximately ₹1,300,000. 
 
 2. **How does experience impact a Data Scientist's salary in India?**
-   - Experience significantly influences earnings. Entry-level Data Scientists can expect salaries ranging from ₹300,000 to ₹700,000 per annum, while those with 3-5 years of experience may earn between ₹800,000 and ₹1,500,000 annually. Professionals with over 6 years of experience can command salaries exceeding ₹1,600,000 per year. :contentReference[oaicite:1]{index=1}
+   - Experience significantly influences earnings. Entry-level Data Scientists can expect salaries ranging from ₹300,000 to ₹700,000 per annum, while those with 3-5 years of experience may earn between ₹800,000 and ₹1,500,000 annually. Professionals with over 6 years of experience can command salaries exceeding ₹1,600,000 per year. 
 
 3. **Which Indian cities offer the highest salaries for Data Scientists?**
-   - Major tech hubs like Bengaluru, Hyderabad, and Mumbai offer competitive salaries. For instance, Data Scientists in Bengaluru earn an average of ₹1,228,772 per year, while those in Hyderabad and Mumbai earn ₹1,200,834 and ₹1,032,796 respectively. :contentReference[oaicite:2]{index=2}
+   - Major tech hubs like Bengaluru, Hyderabad, and Mumbai offer competitive salaries. For instance, Data Scientists in Bengaluru earn an average of ₹1,228,772 per year, while those in Hyderabad and Mumbai earn ₹1,200,834 and ₹1,032,796 respectively. 
 
 4. **How do educational qualifications affect Data Scientist salaries in India?**
    - Advanced degrees and relevant certifications can enhance earning potential. Employers often prefer candidates with a Master's degree or higher in fields like Computer Science, Statistics, or Data Science.
@@ -203,15 +203,3 @@ By combining these tools with continuous learning, you can thrive in the **data-
 
 6. **How do company size and reputation influence Data Scientist salaries in India?**
    - Larger, well-established companies often provide higher salaries and additional benefits compared to startups or smaller firms.
-
-7. **Are there gender disparities in Data Scientist salaries in India?**
-   - While the data science field strives for equality, some studies suggest a gender pay gap exists. Efforts are ongoing to promote diversity and equal pay in the industry.
-
-8. **What is the salary outlook for Data Scientists in India over the next few years?**
-   - The demand for Data Scientists in India is expected to grow, potentially leading to increased salaries, especially for those with specialized skills and experience.
-
-9. **How do additional skills impact a Data Scientist's salary in India?**
-   - Proficiency in machine learning, artificial intelligence, and big data technologies can significantly boost earning potential.
-
-10. **Is there a difference in salary between Data Scientists working in different sectors in India?**
-    - Yes, sectors like finance and technology often offer higher salaries compared to education or public sector roles.

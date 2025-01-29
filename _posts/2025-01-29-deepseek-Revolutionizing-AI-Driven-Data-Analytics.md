@@ -131,14 +131,3 @@ DeepSeek is redefining how businesses leverage AI and big data. From healthcare 
 6. **What makes DeepSeek AI different from competitors?**  
    - DeepSeek AI prioritizes efficiency and accessibility by designing AI models that achieve high performance without relying on high-end hardware, setting it apart from resource-heavy alternatives.
 
-7. **How does DeepSeek AI impact AI research and development?**  
-   - By proving that AI can be both powerful and resource-efficient, DeepSeek AI has sparked new discussions on optimizing AI training and deployment methods.
-
-8. **What are the global implications of DeepSeek AI's success?**  
-   - As AI technology becomes more efficient, companies worldwide may shift toward sustainable AI development, reducing dependency on expensive computing infrastructure.
-
-9. **What challenges does DeepSeek AI face?**  
-   - Like any AI company, DeepSeek AI must navigate regulatory frameworks, ethical concerns, and competition while ensuring its technology remains reliable and scalable.
-
-10. **What’s next for DeepSeek AI?**  
-   - Future advancements may include expanding AI capabilities, improving multilingual support, and further refining efficiency to maintain a competitive edge in the AI landscape.
