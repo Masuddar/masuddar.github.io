@@ -3,53 +3,36 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-
-
+<img src="https://images.pexels.com/photos/30458375/pexels-photo-30458375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="About Me" width="600" height="50"> 
 
 # Hi, I'm Masuddar 👋
 [Visit my portfolio website](https://masuddar.netlify.app)
 
-I am a Data Science enthusiast passionate about extracting insights and solving problems with data. I love exploring AI and Machine Learning and am eager to innovate in the world of data-driven solutions.
+Hey there! I’m **Masuddar Rahaman**, a **2nd-year B.Tech IT student** at **Siliguri Institute of Technology**. I’m super passionate about **Data Science, AI, and Machine Learning**, and I love diving into these areas to learn how they can solve real-world problems. When I'm not studying or coding, I like to write blogs as a hobby, sharing my thoughts and experiences about tech, AI, and the cool stuff I’m exploring. I’m always up for learning something new and connecting with like-minded people who share the same curiosity! 🚀
 
-## Skills 
-I have experience in:
-- **Python** (Pandas, NumPy, Matplotlib)
-- **Power BI**
-- **SQL**
-- **Streamlit**
-- **Interactive dashboards**
-- **Database management**
-- **Machine Learning**
+## 📚 My Interests  
+- **Data Science** 📈  
+- **Programming in Python, C++, & C** 💻  
+- **SQL** 🗄️  
+- **AI & Machine Learning** 🧠
 
-In addition to these, I am always eager to learn and innovate in Data Science.
+## 🌱 Currently Learning  
+- **Data Science** (modeling, analysis, visualization, data-driven decision making)  
+- **Data Science and Algorithms**  
+ 
+Feel free to reach out and connect! I'm always open to discussions, collaborations, and learning from like-minded individuals.  
 
-## Education 
-<!-- - **Bachelor of Science in Data Science & Application** - Indian Institute of Technology, Madras (2025) -->
-- **Bachelor of Technology in Information Technology** - Siliguri Institute of Technology (2023-2027)
-- **High Secondary (PCM-CS)** - BSF School, Kadamtala (2022-2023)
+## 📩 Connect with Me  
+- 📧 Email: [masuddarrahaman31@gmail.com](mailto:masuddarrahaman31@gmail.com)  
+- 🔗 LinkedIn: [Masuddar Rahaman](https://www.linkedin.com/in/masuddar-rahaman-b5044b283/)  
+- 💻 GitHub: [Masuddar's GitHub](https://github.com/Masuddar)
 
-## Experience 
-- **Summer Intern at Technophilia** (Sep 2024): Performed data cleaning, modeling, and prepared visualizations. Analyzed restaurant trends on Zomato to derive meaningful insights.
-
-## Notable Projects 
-- **Blinkit Dashboard**: Modeled data with Python and Power BI to create dashboards and visualizations for decisions.
-- **Movie Recommendation**: Developed a recommendation model with Python and scikit-learn to suggest movies.
-- **Exploratory Data Analysis**: Modeled and visualized data with Python, performed EDA, and deployed using Streamlit.
-- **E-Com Sales**: Modeled data with Python and Power BI to create visualizations and dashboards for decisions.
-
-I actively work on data-driven projects, predictive analytics, and interactive dashboards. I enjoy coding competitions to enhance my problem-solving skills and collaborate with like-minded individuals.
-
-Feel free to reach out to me for any collaboration or queries.
-
-## Portfolio
-[Visit my portfolio website](https://masuddar.netlify.app)
 
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
-
-
 <br>
+
+_____
 <br>
 
 # Privacy Policy
