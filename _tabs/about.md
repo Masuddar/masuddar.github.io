@@ -19,7 +19,8 @@ Hey there! I’m **Masuddar Rahaman**, a **2nd-year B.Tech IT student** at **Sil
 ## 🌱 Currently Learning  
 - **Data Science** (modeling, analysis, visualization, data-driven decision making)  
 - **Data Science and Algorithms**  
- 
+- **A little of AI/ML**  
+
 Feel free to reach out and connect! I'm always open to discussions, collaborations, and learning from like-minded individuals.  
 
 ## 📩 Connect with Me  
