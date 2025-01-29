@@ -6,6 +6,7 @@ categories: [Artificial Intelligence, Machine Learning, Tech Innovations]
 tags: [DeepSeek-V3, Qwen2.5, AI comparison, Baidu, Alibaba, Generative AI, LLM]  
 description: "Uncover the technical marvels of China's leading AI models: Baidu's DeepSeek-V3 and Alibaba's Qwen2.5. Detailed analysis of architecture, benchmarks, and industry impact."  
 featured: true  
+
 image:  
   path: "https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"  
   alt: "Neural network visualization of competing AI models"  
