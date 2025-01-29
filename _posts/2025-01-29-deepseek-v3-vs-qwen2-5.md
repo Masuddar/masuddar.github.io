@@ -13,8 +13,6 @@ image:
 
 # DeepSeek-V3 vs. Qwen2.5: Decoding China’s AI Supremacy Race
 
-<img src="https://images.pexels.com/photos/3861969/pexels-photo-3861969.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="AI competition landscape" width="600" height="200">
-
 ## 1. The New AI Power Balance  
 While Western models dominate media narratives, China’s Baidu and Alibaba have engineered groundbreaking AI systems redefining industry standards. **DeepSeek-V3** and **Qwen2.5** represent distinct philosophies in AI development—Baidu’s precision-focused architecture vs. Alibaba’s multimodal versatility. This 2025 analysis reveals how these models are transforming sectors from fintech to autonomous systems.
 
