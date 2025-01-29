@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: "DeepSeek-V3 vs. Qwen2.5: The 2025 AI Showdown Reshaping Global Tech"  
+title: "DeepSeek-V3 vs. Qwen2.5: 2025 AI Showdown"  
 date: "2025-01-29 11:09:06 +0530"  
 categories: [Artificial Intelligence, Machine Learning, Tech Innovations]  
 tags: [DeepSeek-V3, Qwen2.5, AI comparison, Baidu, Alibaba, Generative AI, LLM]  
