@@ -2,7 +2,7 @@
 layout: post
 title: "Data Science Internships in 2025"
 date: "2025-01-31 00:05:06 +0530"
-categories: [Data Science, Career Development]
+categories: [Data science, Data science Internship]
 tags: [internships, machine learning, data analysis, artificial intelligence]
 description: "Best websites to find data science internships to land your dream position. Ultimate guide to data science internships in 2025.Top opportunities"
 featured: true
