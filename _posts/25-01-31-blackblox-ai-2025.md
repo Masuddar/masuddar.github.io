@@ -15,7 +15,7 @@ image:
 
 ---
 
-## 1. What is Blackbox AI?  
+## 1. What is Blackbox AI ? 
 
 **Blackbox AI** is an advanced AI-driven tool that helps developers with coding tasks. It uses machine learning models trained on a vast amount of code to offer real-time suggestions, auto-completions, and error corrections. This tool is integrated with popular Integrated Development Environments (IDEs) such as Visual Studio Code (VS Code) and PyCharm, making it easier for developers to write, debug, and optimize their code.  
 
