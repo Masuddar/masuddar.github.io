@@ -11,7 +11,7 @@ image:
   alt: "Blackbox AI Code Automation"
 ---
 
-# Blackbox AI in 2025: Revolutionizing Coding with AI-Powered Assistance  
+# Blackbox AI in 2025: Revolutionizing Coding with AI-Powered Assistance.
 
 ---
 
