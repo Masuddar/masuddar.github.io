@@ -6,7 +6,7 @@ order: 4
 <img src="https://images.pexels.com/photos/30458375/pexels-photo-30458375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="About Me" width="600" height="50"> 
 
 # Hi, I'm Masuddar 👋
-[Visit my portfolio website](https://masuddar.netlify.app)
+<!-- [Visit my portfolio website](https://masuddar.netlify.app) -->
 
 Hey there! I’m **Masuddar Rahaman**, a **2nd-year B.Tech IT student** at **Siliguri Institute of Technology**. I’m super passionate about **Data Science, AI, and Machine Learning**, and I love diving into these areas to learn how they can solve real-world problems. When I'm not studying or coding, I like to write blogs as a hobby, sharing my thoughts and experiences about tech, AI, and the cool stuff I’m exploring. I’m always up for learning something new and connecting with like-minded people who share the same curiosity! 🚀
 
