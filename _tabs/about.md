@@ -1,3 +1,24 @@
+
+## Table of Contents
+
+<details>
+
+   <summary>Contents</summary>
+
+1. [icon: fas fa-info-circle
+order: 4](#icon-fas-fa-info-circle-order-4)
+1. [📚 My Interests](#-my-interests)
+1. [🌱 Currently Learning](#-currently-learning)
+1. [1. Information We Collect](#1-information-we-collect)
+   1. [a) Personal Information](#a-personal-information)
+   1. [b) Non-Personal Information](#b-non-personal-information)
+1. [2. Third-Party Services](#2-third-party-services)
+1. [3. Data Protection](#3-data-protection)
+1. [4. Your Rights](#4-your-rights)
+1. [5. Changes to This Privacy Policy](#5-changes-to-this-privacy-policy)
+1. [6. Contact Us](#6-contact-us)
+
+</details>
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
@@ -9,6 +30,7 @@ order: 4
 <!-- [Visit my portfolio website](https://masuddar.netlify.app) -->
 
 Hey there! I’m **Masuddar Rahaman**, a **2nd-year B.Tech IT student** at **Siliguri Institute of Technology**. I’m super passionate about **Data Science, AI, and Machine Learning**, and I love diving into these areas to learn how they can solve real-world problems. When I'm not studying or coding, I like to write blogs as a hobby, sharing my thoughts and experiences about tech, AI, and the cool stuff I’m exploring. I’m always up for learning something new and connecting with like-minded people who share the same curiosity! 🚀
+
 
 ## 📚 My Interests  
 - **Data Science** 📈  
@@ -124,6 +146,7 @@ _____
 # Privacy Policy
 
 _Last updated: 29-01-2025_
+
 
 Welcome to **Masuddar.in** ("we," "our," or "us"). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you visit our website [masuddar.in](https://masuddar.in).
 

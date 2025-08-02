@@ -6,7 +6,7 @@ date: "2025-01-27 11:05:06 +0530"
 categories: [Data science, data science salary in india]
 tags: [data science, data science salary]
 description: Data Science Salary in India. Entry-Level (0–2 years) ₹4,00,000 – ₹6,00,000; Mid-Level (3–5 years) ...Learn more salary Hike on Experience's. 🚀 
-featured: true # Add this line to feature the post
+featured: true 
 image:
   path: "https://images.pexels.com/photos/6694543/pexels-photo-6694543.jpeg"
   alt: "Data Science salary"
