@@ -28,11 +28,13 @@ Unlike ChatGPT-style models that process text first, Gemini was **designed from 
 - 📊 **Structured Data** (spreadsheets, databases)  
 
 ### **2.2 Three Sizes for Different Needs**  
-| Model       | Use Case                     | Devices Supported  |  
-|-------------|-----------------------------|--------------------|  
-| Gemini Nano | On-device (Pixel phones)    | Mobile             |  
-| Gemini Pro  | Cloud APIs (Bard Advanced)  | Servers/Browsers   |  
-| Gemini Ultra| Enterprise/research         | Google Cloud TPUv5 |  
+
+
+| Model        | Use Case                   | Devices Supported  |
+| ------------ | -------------------------- | ------------------ |
+| Gemini Nano  | On-device (Pixel phones)   | Mobile             |
+| Gemini Pro   | Cloud APIs (Bard Advanced) | Servers/Browsers   |
+| Gemini Ultra | Enterprise/research        | Google Cloud TPUv5 |
 
 ### **2.3 Performance Benchmarks (2025)**  
 - **91.5%** on MMLU (Massive Multitask Language Understanding)  
@@ -55,12 +57,12 @@ Unlike ChatGPT-style models that process text first, Gemini was **designed from 
 
 ## **4. How Gemini Compares to Other AIs**  
 
-| Feature         | Gemini Ultra | GPT-5 | Claude 3 |  
-|----------------|-------------|-------|---------|  
-| Multimodal     | ✅ Native   | ❌ Text-first | ✅ |  
-| Context Window | 1M tokens   | 500K  | 200K    |  
-| Coding         | 94% HumanEval | 89%  | 82%     |  
-| Cost (per 1M tokens) | $12 | $18 | $15 |  
+| Feature              | Gemini Ultra  | GPT-5        | Claude 3 |
+| -------------------- | ------------- | ------------ | -------- |
+| Multimodal           | ✅ Native      | ❌ Text-first | ✅        |
+| Context Window       | 1M tokens     | 500K         | 200K     |
+| Coding               | 94% HumanEval | 89%          | 82%      |
+| Cost (per 1M tokens) | $12           | $18          | $15      |
 
 ## **5. The Future of Gemini AI**  
 Google plans to integrate Gemini with:  
