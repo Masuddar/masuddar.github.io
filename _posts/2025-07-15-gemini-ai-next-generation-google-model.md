@@ -7,7 +7,7 @@ tags: [Gemini AI, Multimodal AI, Google DeepMind, AI Assistant]
 description: "Discover how Gemini AI is reshaping industries in 2025. Complete analysis of capabilities, real-world applications, and comparison with other AI models."
 featured: true
 image:
-  path: "https://images.pexels.com/photos/8386440/pexels-photo-8386440.jpeg"
+  path: "https://miro.medium.com/v2/resize:fit:686/1*5UvjWbxaDZCuTpQs9SjOhw.jpeg"
   alt: "Gemini AI artificial intelligence interface"
 ---
 
