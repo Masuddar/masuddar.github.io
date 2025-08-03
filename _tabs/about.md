@@ -5,20 +5,23 @@
 
    <summary>Contents</summary>
 
-1. [icon: fas fa-info-circle
-order: 4](#icon-fas-fa-info-circle-order-4)
-1. [📚 My Interests](#-my-interests)
-1. [🌱 Currently Learning](#-currently-learning)
-1. [1. Information We Collect](#1-information-we-collect)
-   1. [a) Personal Information](#a-personal-information)
-   1. [b) Non-Personal Information](#b-non-personal-information)
-1. [2. Third-Party Services](#2-third-party-services)
-1. [3. Data Protection](#3-data-protection)
-1. [4. Your Rights](#4-your-rights)
-1. [5. Changes to This Privacy Policy](#5-changes-to-this-privacy-policy)
-1. [6. Contact Us](#6-contact-us)
+- [the default layout is 'page'](#the-default-layout-is-page)
+  - [order: 4](#order-4)
+- [Hi, I'm Masuddar 👋](#hi-im-masuddar-)
+  - [📚 My Interests](#-my-interests)
+  - [🌱 Currently Learning](#-currently-learning)
+- [Privacy Policy](#privacy-policy)
+  - [1. Information We Collect](#1-information-we-collect)
+    - [a) Personal Information](#a-personal-information)
+    - [b) Non-Personal Information](#b-non-personal-information)
+  - [2. Third-Party Services](#2-third-party-services)
+  - [3. Data Protection](#3-data-protection)
+  - [4. Your Rights](#4-your-rights)
+  - [5. Changes to This Privacy Policy](#5-changes-to-this-privacy-policy)
+  - [6. Contact Us](#6-contact-us)
 
 </details>
+
 ---
 # the default layout is 'page'
 icon: fas fa-info-circle
@@ -135,9 +138,6 @@ Feel free to reach out and connect! I'm always open to discussions, collaboratio
 
 
 
-  
-
-
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
 <br>
@@ -202,5 +202,3 @@ For any privacy-related questions, contact us at:
 🌍 **Website:** [masuddar.in](https://masuddar.in)  
 
 By using this website, you agree to this Privacy Policy.
-
-
