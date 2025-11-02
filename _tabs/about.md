@@ -1,3 +1,9 @@
+---
+layout: page
+title: About
+permalink: /about/
+order: 5 
+---
 
 ## Table of Contents
 
