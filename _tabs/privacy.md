@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Privacy Policy
+title: PRIVACY POLICY
 permalink: /privacy/
+icon: fas fa-lock      # Added icon property for the sidebar
+order: 7               # Added order property for correct sorting/styling
 ---
 
 ## Privacy Policy
@@ -28,18 +30,11 @@ We may collect non-personal data automatically, such as:
 - IP address (anonymized)
 - Pages visited and time spent
 
-<!-- ## 2. How We Use Your Information
-
-We use the collected data for:
-- Improving website performance and content
-- Responding to your queries or comments
-- Sending newsletters (if subscribed)
-- Analyzing site traffic using tools like Google Analytics -->
-
 ## 2. Third-Party Services
 
 We may use third-party services like:
 - **Google Analytics** (for traffic insights)
+- **Google AdSense** (for advertisements)
 - **Disqus/Commenting Platform** (for user engagement)
 
 These third parties may collect data based on their privacy policies.

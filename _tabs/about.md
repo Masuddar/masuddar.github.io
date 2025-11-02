@@ -12,7 +12,6 @@ order: 5
 
 ## About Masuddar.in
 
-(Your content here)
 # Hi, I'm Masuddar 👋
 <!-- [Visit my portfolio website](https://masuddar.netlify.app) -->
 

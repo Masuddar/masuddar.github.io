@@ -1,7 +1,9 @@
 ---
 layout: page
-title: Contact
+title: CONTACT
 permalink: /contact/
+icon: fas fa-envelope  # Added icon property
+order: 6               # Added order property for correct sorting/styling
 ---
 
 ## Get in Touch
