@@ -63,7 +63,46 @@ webmaster_verifications:
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-# Web Analytics Settings
+# --- NAVIGATION TABS CONFIGURATION ---
+tabs:
+  - title: HOME
+    url: /
+    icon: fas fa-home
+    order: 1
+
+  - title: BLOGS
+    url: /categories/
+    icon: fas fa-stream
+    order: 2
+
+  - title: TAGS
+    url: /tags/
+    icon: fas fa-tags
+    order: 3
+
+  - title: TIMELINE
+    url: /archives/
+    icon: fas fa-archive
+    order: 4
+
+  # THE NEW ABOUT LINK
+  - title: ABOUT
+    url: /about/
+    icon: fas fa-user-circle
+    order: 5 
+
+  # ESSENTIAL AD PAGES
+  - title: CONTACT
+    url: /contact/
+    icon: fas fa-envelope
+    order: 6
+
+  - title: PRIVACY POLICY
+    url: /privacy/
+    icon: fas fa-lock
+    order: 7 
+# --- END NAVIGATION TABS CONFIGURATION ---
+
 # Web Analytics Settings
 analytics:
   google:
