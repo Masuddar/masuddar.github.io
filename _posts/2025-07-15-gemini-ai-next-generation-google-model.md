@@ -117,9 +117,6 @@ A: Gemini Nano runs on Pixel 10+ phones; web version works on any modern browser
 **Q: Can it create videos?**  
 A: Currently generates 30-sec clips from text (1080p); full video coming late 2025. 
 
-**Q: Can it create videos?**  
-A: Currently generates 30-sec clips from text (1080p); full video coming late 2025. 
-
 **Explore Responsibly:**  
 - [Google's Gemini Ethics Framework](https://ai.google/responsibility)  
 - [Try Gemini Free](https://gemini.google.com)  
