@@ -16,7 +16,7 @@ This platform is dedicated to exploring the intersection of **Data Science, Arti
 
 ## 👋 About the Author: Masuddar Rahaman
 
-I’m **Masuddar Rahaman**, a highly motivated 2nd-year B.Tech IT student at Siliguri Institute of Technology. My dedication to **data-driven decision-making** and **algorithmic problem-solving** forms the core of Masuddar.in. This blog serves as a professional portfolio and knowledge hub where I document my journey and share high-quality, original insights.
+I’m **Masuddar Rahaman**, a highly motivated 3rd-year B.Tech IT student at Siliguri Institute of Technology. My dedication to **data-driven decision-making** and **algorithmic problem-solving** forms the core of Masuddar.in. This blog serves as a professional portfolio and knowledge hub where I document my journey and share high-quality, original insights.
 
 ### Expertise & Focus Areas
 
