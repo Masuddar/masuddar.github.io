@@ -2,63 +2,59 @@
 layout: page
 title: PRIVACY POLICY
 permalink: /privacy/
-icon: fas fa-lock      # Added icon property for the sidebar
-order: 7               # Added order property for correct sorting/styling
+icon: fas fa-lock
+order: 7
 ---
 
-## Privacy Policy
+# Website Privacy Policy
 
-This website uses Google AdSense to serve advertisements. Google, as a third-party vendor, uses cookies to serve ads on your site. Google's use of the **DART cookie** enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt-out of the use of the DART cookie by visiting the [Google Ad and Content Network Privacy Policy](https://policies.google.com/technologies/ads).
+_Last updated: November 2, 2025_
 
-# Privacy Policy
+Welcome to **Masuddar.in** ("we," "our," or "us"). Your privacy is deeply important to us. This policy outlines how we handle, collect, use, and protect your information when you visit [masuddar.in](https://masuddar.in).
 
-_Last updated: 02-11-2025_
+## 1. Information Collection and Usage
 
-
-Welcome to **Masuddar.in** ("we," "our," or "us"). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you visit our website [masuddar.in](https://masuddar.in).
-
-## 1. Information We Collect
+We collect information to improve your experience and operate the website effectively.
 
 ### a) Personal Information
-When you subscribe, comment, or contact us, we may collect:
-- Name
-- Email address
+When you **contact us** directly or **comment** on a post, we may collect:
+* **Name**
+* **Email Address**
+* This data is used solely for the purpose of communication and fulfilling your specific request (e.g., responding to a query).
 
-### b) Non-Personal Information
-We may collect non-personal data automatically, such as:
-- Browser type and version
-- IP address (anonymized)
-- Pages visited and time spent
+### b) Non-Personal Information (Automatically Collected)
+We automatically log non-personal data necessary for site operation and security:
+* **IP Address** (anonymized)
+* **Browser/Device Type** and Operating System
+* **Pages Visited** and Referral Source
 
-## 2. Third-Party Services
+## 2. Google AdSense & Third-Party Data Processing
 
-We may use third-party services like:
-- **Google Analytics** (for traffic insights)
-- **Google AdSense** (for advertisements)
-- **Disqus/Commenting Platform** (for user engagement)
+We partner with third-party services to monetize our content and analyze site performance.
 
-These third parties may collect data based on their privacy policies.
+### **Google AdSense Disclosure**
+This website uses **Google AdSense** to display personalized advertisements.
+* Google, as a third-party vendor, uses **cookies (specifically the DART cookie)** to serve ads based on a user's prior visits to this and other websites.
+* This tracking helps provide relevant ads. Users may **opt-out** of the DART cookie use by visiting the [Google Ad and Content Network Privacy Policy](https://policies.google.com/technologies/ads).
 
-## 3. Data Protection
+### Other Third-Party Services
+We utilize:
+* **Google Analytics** for website traffic measurement.
+* **Disqus/Commenting Platform** for user engagement, which operates under its own privacy policy.
 
-We take security seriously and implement measures to protect your data. However, no online transmission is 100% secure.
+## 3. Data Protection and Security
 
-## 4. Your Rights
+We are committed to protecting your data through appropriate physical, electronic, and managerial procedures. However, please be aware that no method of transmission over the internet or method of electronic storage is 100% secure.
 
-You have the right to:
-- Request access to your personal data
-- Request deletion of your data
-- Opt out of communications (unsubscribe from newsletters)
+## 4. Compliance with Global Privacy Laws
 
-## 5. Changes to This Privacy Policy
+We strive to comply with general data protection principles. If you are a resident of the European Economic Area (EEA) or California, you have specific rights concerning your personal data, including the right to access, correct, delete, and object to the processing of your data.
 
-We may update this Privacy Policy occasionally. Changes will be posted on this page with the last updated date.
+## 5. Contact Us
 
-## 6. Contact Us
+If you have any questions or concerns regarding this Privacy Policy or your data rights, please contact the site owner directly:
 
-For any privacy-related questions, contact us at:
+* **Email:** [masuddarrahaman31@gmail.com](mailto:masuddarrahaman31@gmail.com)
+* **Website:** [masuddar.in](https://masuddar.in)
 
-📧 **Email:** [masuddarrahaman31@gmail.com](mailto:masuddarrahaman31@gmail.com)  
-🌍 **Website:** [masuddar.in](https://masuddar.in)  
-
-By using this website, you agree to this Privacy Policy.
+By continuing to use Masuddar.in, you acknowledge and accept the practices described in this Privacy Policy.
