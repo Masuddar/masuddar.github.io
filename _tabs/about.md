@@ -5,9 +5,7 @@ permalink: /about/
 order: 5 
 ---
 
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+
 ---
 <img src="https://images.pexels.com/photos/30458375/pexels-photo-30458375.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="About Me" width="600" height="50"> 
 
