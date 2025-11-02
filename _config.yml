@@ -88,19 +88,19 @@ tabs:
   # THE NEW ABOUT LINK
   - title: ABOUT
     url: /about/
-    icon: fas fa-user-circle
+    icon: fas fa-user-circle # This adds the icon
     order: 5 
 
-  # ESSENTIAL AD PAGES
   - title: CONTACT
     url: /contact/
-    icon: fas fa-envelope
+    icon: fas fa-envelope   # This adds the icon
     order: 6
 
   - title: PRIVACY POLICY
     url: /privacy/
-    icon: fas fa-lock
-    order: 7 
+    icon: fas fa-lock       # This adds the icon
+    order: 7
+
 # --- END NAVIGATION TABS CONFIGURATION ---
 
 # Web Analytics Settings
