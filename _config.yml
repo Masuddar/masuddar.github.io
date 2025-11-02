@@ -90,16 +90,18 @@ tabs:
     url: /about/
     icon: fas fa-user-circle # This adds the icon
     order: 5 
+  # ... (Your existing, working tabs)
 
+  # CONTACT configuration - Add the icon line
   - title: CONTACT
     url: /contact/
-    icon: fas fa-envelope   # Icon for Contact
+    icon: fas fa-envelope  # The icon for email/contact 
     order: 6
 
-  # PRIVACY POLICY configuration - Ensure the icon line is present
+  # PRIVACY POLICY configuration - Add the icon line
   - title: PRIVACY POLICY
     url: /privacy/
-    icon: fas fa-lock       # Icon for Privacy Policy
+    icon: fas fa-lock      # The icon for privacy/security
     order: 7
 
 # --- END NAVIGATION TABS CONFIGURATION ---
