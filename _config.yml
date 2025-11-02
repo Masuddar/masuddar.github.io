@@ -93,12 +93,13 @@ tabs:
 
   - title: CONTACT
     url: /contact/
-    icon: fas fa-envelope   # This adds the icon
+    icon: fas fa-envelope   # Icon for Contact
     order: 6
 
+  # PRIVACY POLICY configuration - Ensure the icon line is present
   - title: PRIVACY POLICY
     url: /privacy/
-    icon: fas fa-lock       # This adds the icon
+    icon: fas fa-lock       # Icon for Privacy Policy
     order: 7
 
 # --- END NAVIGATION TABS CONFIGURATION ---
