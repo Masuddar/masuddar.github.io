@@ -5,30 +5,6 @@ permalink: /about/
 order: 5 
 ---
 
-## Table of Contents
-
-<details>
-
-   <summary>Contents</summary>
-
-- [the default layout is 'page'](#the-default-layout-is-page)
-  - [order: 4](#order-4)
-- [Hi, I'm Masuddar 👋](#hi-im-masuddar-)
-  - [📚 My Interests](#-my-interests)
-  - [🌱 Currently Learning](#-currently-learning)
-- [Privacy Policy](#privacy-policy)
-  - [1. Information We Collect](#1-information-we-collect)
-    - [a) Personal Information](#a-personal-information)
-    - [b) Non-Personal Information](#b-non-personal-information)
-  - [2. Third-Party Services](#2-third-party-services)
-  - [3. Data Protection](#3-data-protection)
-  - [4. Your Rights](#4-your-rights)
-  - [5. Changes to This Privacy Policy](#5-changes-to-this-privacy-policy)
-  - [6. Contact Us](#6-contact-us)
-
-</details>
-
----
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
@@ -146,65 +122,6 @@ Feel free to reach out and connect! I'm always open to discussions, collaboratio
 
 <!-- > Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
 {: .prompt-tip } -->
-<br>
+
 
 _____
-# Privacy Policy
-
-_Last updated: 29-01-2025_
-
-
-Welcome to **Masuddar.in** ("we," "our," or "us"). Your privacy is important to us. This Privacy Policy explains how we collect, use, and protect your information when you visit our website [masuddar.in](https://masuddar.in).
-
-## 1. Information We Collect
-
-### a) Personal Information
-When you subscribe, comment, or contact us, we may collect:
-- Name
-- Email address
-
-### b) Non-Personal Information
-We may collect non-personal data automatically, such as:
-- Browser type and version
-- IP address (anonymized)
-- Pages visited and time spent
-
-<!-- ## 2. How We Use Your Information
-
-We use the collected data for:
-- Improving website performance and content
-- Responding to your queries or comments
-- Sending newsletters (if subscribed)
-- Analyzing site traffic using tools like Google Analytics -->
-
-## 2. Third-Party Services
-
-We may use third-party services like:
-- **Google Analytics** (for traffic insights)
-- **Disqus/Commenting Platform** (for user engagement)
-
-These third parties may collect data based on their privacy policies.
-
-## 3. Data Protection
-
-We take security seriously and implement measures to protect your data. However, no online transmission is 100% secure.
-
-## 4. Your Rights
-
-You have the right to:
-- Request access to your personal data
-- Request deletion of your data
-- Opt out of communications (unsubscribe from newsletters)
-
-## 5. Changes to This Privacy Policy
-
-We may update this Privacy Policy occasionally. Changes will be posted on this page with the last updated date.
-
-## 6. Contact Us
-
-For any privacy-related questions, contact us at:
-
-📧 **Email:** [masuddarrahaman31@gmail.com](mailto:masuddarrahaman31@gmail.com)  
-🌍 **Website:** [masuddar.in](https://masuddar.in)  
-
-By using this website, you agree to this Privacy Policy.
