@@ -2,6 +2,7 @@
 layout: post
 title: "IIT Madras BS in Data Science: Free PYQ PDF Downloads, Notes & Real Exam Portal on BTechi"
 date: "2026-10-20 00:30:00 +0530"
+author: Masuddar
 categories: [IIT Madras BS, Education & Prep]
 tags: [IIT Madras BS, BTechi, BS Data Science, Qualifier Exam, PYQ PDF, Mock Test, Exam Portal, Data Science Degree]
 description: "Pursuing the IIT Madras BS in Data Science? Discover how BTechi (btechi.in) provides free PYQ PDF downloads, revision notes, qualifier mock tests, and a real CBT exam portal."

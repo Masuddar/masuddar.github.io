@@ -2,7 +2,7 @@
 layout: post
 title: "Beyond Chat: How GPT-6 Astra's 'Computer Use' Capabilities are Redefining Knowledge Work"
 date: "2026-10-20 02:04:00 +0530"
-author: Masuddar Rahaman
+author: Masuddar
 categories: [Artificial Intelligence, Future of Work]
 tags: [GPT-6 Astra, Computer Use, AI Agents, Enterprise Automation, OpenAI, Knowledge Work, Productivity, Software Engineering]
 description: "Discover how GPT-6 Astra's native computer-use capabilities move beyond chat prompts to automate multi-step workflows across Excel, slide decks, and enterprise software."

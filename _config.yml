@@ -11,6 +11,8 @@ lang: en
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone: Asia/Calcutta
 
+future: true
+
 favicon: /assets/favicons/favicon-16x16.png
 
 

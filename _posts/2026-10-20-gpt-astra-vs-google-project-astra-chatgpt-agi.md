@@ -2,7 +2,7 @@
 layout: post
 title: "OpenAI GPT Astra vs. Google Project Astra: The Frontier Models Fueling ChatGPT's Path to AGI"
 date: "2026-10-20 02:00:00 +0530"
-author: Masuddar Rahaman
+author: Masuddar
 categories: [Artificial Intelligence, Frontier Models]
 tags: [GPT Astra, Project Astra, Google Gemini, OpenAI, ChatGPT AGI, Artificial General Intelligence, Multimodal AI, AI Agents]
 description: "Demystify OpenAI GPT Astra versus Google Project Astra. Discover how these frontier models work, benchmark comparisons, autonomous agent capabilities, and what the race toward AGI means for engineers."

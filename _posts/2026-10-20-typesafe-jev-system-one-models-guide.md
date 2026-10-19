@@ -3,6 +3,7 @@ layout: post
 title: "Inside Jev & System One Models: Why TypeSafe AI's 70ms Deterministic Engine Changes AI Architecture"
 date: "2026-10-20 02:00:00 +0530"
 author: Masuddar
+math: true
 categories: [Artificial Intelligence, Machine Learning]
 tags: [TypeSafe AI, Jev, System One Models, LLM, LangChain, AI Agents, RLCD, AI Architecture, Machine Learning]
 description: "Discover Jev by TypeSafe AI: a groundbreaking System One model running at 70ms with zero type errors, RLCD calibration, parallel sampling, and seamless LangChain harness integration."
@@ -133,12 +134,12 @@ TypeSafe applies this identical economic thesis to digital machine intelligence:
 
 | Metric | Frontier Conversational LLMs | TypeSafe Jev | Economic Advantage |
 | :--- | :--- | :--- | :--- |
-| **Input Tokens** | $\$0.20$ to $\$10.00$ per million tokens | **$\$0.042$ per million tokens** | Up to **238x cheaper** |
-| **Output Tokens** | $\$1.00$ to $\$30.00+$ per million tokens | **FREE** (Too cheap to meter) | **$\infty$ (Marginal Cost: \$0)** |
-| **Inference Latency** | $3,000\text{ ms}$ to $300,000+\text{ ms}$ | **$70\text{ ms}$ to $500\text{ ms}$** | **$40\text{x}$ to $200\text{x}$ faster** |
-| **Workflow Eval Ratio** | Baseline | **$193.6\text{x}$ faster, $444.6\text{x}$ cheaper** | Verified on enterprise compute graphs |
+| **Input Tokens** | $0.20 to $10.00 per million tokens | **$0.042 per million tokens** | Up to **238x cheaper** |
+| **Output Tokens** | $1.00 to $30.00+ per million tokens | **FREE** (Too cheap to meter) | **∞ (Marginal Cost: $0)** |
+| **Inference Latency** | 3,000 ms to 300,000+ ms | **70 ms to 500 ms** | **40x to 200x faster** |
+| **Workflow Eval Ratio** | Baseline | **193.6x faster, 444.6x cheaper** | Verified on enterprise compute graphs |
 
-By driving the marginal cost of structured decision inference down to **$\$42$ per billion input tokens** and making output tokens free, developers can execute intelligent decision evaluations inside nested loops, streaming data pipelines, and high-frequency event brokers without accumulating catastrophic API bills.
+By driving the marginal cost of structured decision inference down to **$42 per billion input tokens** and making output tokens free, developers can execute intelligent decision evaluations inside nested loops, streaming data pipelines, and high-frequency event brokers without accumulating catastrophic API bills.
 
 ---
 
@@ -219,7 +220,7 @@ To demonstrate that Jev represents a distinct class of frontier intelligence, Ty
 ### Real-Time Doom at 10 Queries Per Second
 In this benchmark, an automated agent played the classic video game *Doom* by processing structured representations of real-time game state (health, ammo, enemy positions, corridor geometries). 
 
-Jev evaluated the situation and issued movement and tactical decisions at **10 queries per second (QPS)**. The entire session ran continuously at an operational cost of approximately **$\$7\text{ per hour}$**—a workload that would cost thousands of dollars and experience crippling latency on standard commercial LLMs.
+Jev evaluated the situation and issued movement and tactical decisions at **10 queries per second (QPS)**. The entire session ran continuously at an operational cost of approximately **$7 per hour**—a workload that would cost thousands of dollars and experience crippling latency on standard commercial LLMs.
 
 ### Wikiracing Through High-Cardinality Graphs
 In Wikiracing, an agent must navigate from an arbitrary Wikipedia page to a distant target page using only valid hyperlinks on each visited article. 
@@ -236,7 +237,14 @@ On September 17, 2026, the LangChain engineering team (led by Sydney Runkle and 
 
 Autonomous agents operate in a continuous cycle:
 
-$$\text{Observe} \longrightarrow \text{Decide} \longrightarrow \text{Execute Tool} \longrightarrow \text{Evaluate Result}$$
+```
+┌───────────────┐       ┌──────────────┐       ┌────────────────────┐       ┌─────────────────────┐
+│    Observe    │ ───►  │    Decide    │ ───►  │    Execute Tool    │ ───►  │   Evaluate Result   │
+│  (Read State) │       │ (System One) │       │ (Target API / OS)  │       │ (Verify Output)     │
+└───────────────┘       └──────────────┘       └────────────────────┘       └─────────────────────┘
+```
+
+**Observe** ➔ **Decide** ➔ **Execute Tool** ➔ **Evaluate Result**
 
 When every single transition in this loop requires a multi-second chat model invocation, agent loops become agonizingly slow and financially expensive. By integrating Jev as an intermediary decision filter, developers can decouple decision classification from open-ended language generation.
 
@@ -345,7 +353,7 @@ Rather than viewing System One Models and generative LLMs as competitors, modern
 | **Ticket triage, intent classification & tag routing** | **TypeSafe Jev** | 200x faster, zero type errors, negligible cost. |
 | **High-stakes architectural planning & math proofs** | Frontier Reasoning Model | Requires deep chain-of-thought exploration. |
 | **Tool-call risk validation & shell interception** | **TypeSafe Jev** | Real-time latency required before tool dispatch. |
-| **Big Data Map-Reduce over millions of documents** | **TypeSafe Jev** | $\$0.042\text{/MTok}$ makes petabyte extraction feasible. |
+| **Big Data Map-Reduce over millions of documents** | **TypeSafe Jev** | $0.042 per million tokens makes petabyte extraction feasible. |
 
 ---
 
