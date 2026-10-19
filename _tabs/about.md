@@ -16,9 +16,9 @@ Welcome to **Masuddar.in** — a technical blog exploring practical concepts in 
 
 ## 👋 About Me
 
-I’m **Masuddar Rahaman**, a Software Engineer Intern at **Algoritmo Lab**, Artificial Intelligence Intern at **Bharat Space Education Research Centre**, and Founder of **KaizenStat** (an open-source ML framework). I am pursuing my B.Tech in Information Technology ('27) at Siliguri Institute of Technology.
+I’m **Masuddar Rahaman**, an AI/ML Intern at **IIT Ropar**, Software Engineer Intern at **Algoritmo Lab**, and AI Intern at **Bharat Space Education Research Centre**. I am also the founder of **KaizenStat** (an open-source ML framework) and an Information Technology undergraduate ('27) at Siliguri Institute of Technology.
 
-I use this blog as an open notebook to document my technical journey, build in public, and share practical knowledge with the developer community.
+I use this blog as an open notebook to document what I build and learn, publish tutorials, and share practical insights with the developer community.
 
 ### 💡 Focus Areas
 
