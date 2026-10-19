@@ -10,30 +10,28 @@ order: 5
 
 # Masuddar.in: Data Science & AI Insights
 
-This platform is dedicated to exploring the intersection of **Data Science, Artificial Intelligence (AI), and Machine Learning (ML)**. Our mission is to demystify complex technological concepts and share practical knowledge across **Deep Learning** architectures and **Natural Language Processing (NLP)** for both aspiring and seasoned tech enthusiasts.
+Welcome to **Masuddar.in** — a technical blog exploring practical concepts in **Artificial Intelligence, Machine Learning, and Data Science**. Here, I share tutorials, engineering notes, and insights aimed at demystifying modern ML workflows and data analytics.
 
 ---
 
-## 👋 About the Author: Masuddar Rahaman
+## 👋 About Me
 
-I’m **Masuddar Rahaman**, a highly motivated 3rd-year B.Tech IT student at Siliguri Institute of Technology. My dedication to **data-driven decision-making** and **algorithmic problem-solving** forms the core of Masuddar.in. This blog serves as a professional portfolio and knowledge hub where I document my journey and share high-quality, original insights.
+I’m **Masuddar Rahaman**, a Software Engineer Intern at **Algoritmo Lab**, Artificial Intelligence Intern at **Bharat Space Education Research Centre**, and Founder of **KaizenStat** (an open-source ML framework). I am pursuing my B.Tech in Information Technology ('27) at Siliguri Institute of Technology.
 
-### Expertise & Focus Areas
+I use this blog as an open notebook to document my technical journey, build in public, and share practical knowledge with the developer community.
 
-* **Machine Learning & Deep Learning:** Implementing and optimizing models across various problem sets.
-* **Natural Language Processing (NLP):** Working with text data, sentiment analysis, and language models.
-* **Data Science & Analysis:** Modeling, Visualization, and ETL processes.
-* **Core Programming:** Mastery of **Python** (for data), C++, and C.
-* **Database Management:** Practical application of **SQL** for robust data handling.
+### 💡 Focus Areas
 
-### Current Learning Objectives
-I am actively enhancing my skill set with a focus on advanced data science methodologies and the deployment of production-ready AI models.
+* **Machine Learning & AI:** End-to-end ML pipelines, model optimization, and applied AI.
+* **Data Science & Analytics:** Statistical modeling, EDA, and data visualization with Python.
+* **Open Source & Tooling:** Building developer-friendly frameworks and reproducible workflows.
 
 ---
 
-## 📩 Get in Touch for Professional Inquiries
+## 📩 Connect
 
-For collaborations, technical discussions, or professional networking, please use the dedicated **Contact** page.
+Have questions, collaboration ideas, or feedback on an article? Reach out anytime:
 
-* 🔗 **LinkedIn:** [Masuddar Rahaman - View Profile](https://www.linkedin.com/in/masuddar-rahaman-b5044b283/)
-* 💻 **GitHub:** [Masuddar - View Projects](https://github.com/Masuddar)
+* 🔗 **LinkedIn:** [Masuddar Rahaman](https://www.linkedin.com/in/masuddar-rahaman-b5044b283/)
+* 💻 **GitHub:** [@Masuddar](https://github.com/Masuddar)
+* ✉️ **Contact:** [Send a message](/contact/)
