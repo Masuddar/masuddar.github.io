@@ -33,7 +33,7 @@ For partnership proposals, collaboration ideas, or inquiries regarding the conte
 
 Stay current with the latest trends in AI, ML, and Data Science, and connect directly for professional networking:
 
-* 🔗 **LinkedIn:** [Masuddar Rahaman - View Profile](https://www.linkedin.com/in/masuddar-rahaman-b5044b283/)
+* 🔗 **LinkedIn:** [Masuddar Rahaman - View Profile](https://www.linkedin.com/in/masuddar-rahaman/)
 * 🌐 **GitHub:** [Masuddar - View Projects](https://github.com/Masuddar)
 
 ---

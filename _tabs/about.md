@@ -32,6 +32,6 @@ I use this blog as an open notebook to document what I build and learn, publish 
 
 Have questions, collaboration ideas, or feedback on an article? Reach out anytime:
 
-* 🔗 **LinkedIn:** [Masuddar Rahaman](https://www.linkedin.com/in/masuddar-rahaman-b5044b283/)
+* 🔗 **LinkedIn:** [Masuddar Rahaman](https://www.linkedin.com/in/masuddar-rahaman/)
 * 💻 **GitHub:** [@Masuddar](https://github.com/Masuddar)
 * ✉️ **Contact:** [Send a message](/contact/)
